@@ -1,0 +1,6 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "apkUrl": "https://YOUR-VERCEL-DOMAIN.vercel.app/smartboard-v1.0.apk",
+  "releaseNotes": "Initial release of SmartBoard."
+}
